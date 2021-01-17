@@ -1,0 +1,3 @@
+[submodule "udacity-elastic-image-filter"]
+	path = udacity-elastic-image-filter
+	url = https://github.com/LarrySul/udacity-elastic-image-filter
