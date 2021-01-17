@@ -1,6 +1,0 @@
-[submodule "udacity-elastic-image-filter"]
-	path = udacity-elastic-image-filter
-	url = https://github.com/LarrySul/udacity-elastic-image-filter
-[submodule "project-1/deploy-static-website-on-aws"]
-	path = project-1/deploy-static-website-on-aws
-	url = https://github.com/LarrySul/deploy-static-website-on-aws
